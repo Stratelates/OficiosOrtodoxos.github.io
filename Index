@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html>
+<style>
+table, th, td {
+  border:1px solid black;
+}
+
+tr:nth-child(even) {
+  background-color: #D6EEEE;
+}
+</style>
+<body>
+
+<table style="width:40%">
+    <tr>
+        <th>Ofícios na Paróquia de São Cosme e São Damião</th>
+    </tr>
+</table>
+
+<table style="width:40%">
+  <tr>
+    <th>Liturgia</th>
+    <th>Domingo 10h 02/06</th>
+  </tr>
+
+  <tr>
+    <th>Vésperas</th>
+    <th>Vésperas 18h 03/06</th>
+  </tr>
+
+  <tr>
+    <th>Liturgia</th>
+    <th>Domingo 10h 09/06</th>
+  </tr>
+
+  <tr>
+    <th>Vésperas</th>
+    <th>Vésperas 18h 11/06</th>
+  </tr>
+
+  <tr>
+    <th>Liturgia</th>
+    <th>Domingo 10h 16/06</th>
+  </tr>
+
+  <tr>
+    <th>Vésperas</th>
+    <th>Vésperas 18h 17/06</th>
+  </tr>
+
+  <tr>
+    <th>Liturgia</th>
+    <th>Domingo 10h 23/06</th>
+  </tr>
+
+  <tr>
+    <th>Vésperas</th>
+    <th>Vésperas 18h 24/06</th>
+  </tr>
+
+  <tr>
+    <th>Liturgia</th>
+    <th>Domingo 10h 30/06</th>
+  </tr>
+
+  <tr>
+    <th>Vésperas</th>
+    <th>Vésperas 18h 31/06</th>
+  </tr>
+</table>
+
+<p>Eu vou refazer a tabela para ficar: | Oficio | Dia da semana | Dia do mês | Hora |</p>
+<p>O ofício de vésperas não vai ser segunda esse mês, mudou pra quinta 18h</p>
+
+<p><a href="About">Sobre</a></p>
+
+</body>
+</html>
+
